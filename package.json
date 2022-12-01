@@ -1,5 +1,5 @@
 {
-  "name": "danzz-mdv1",
+  "name": "Nocs",
   "version": "1.0.0",
   "description": "My Project",
   "main": "index.js",
@@ -10,9 +10,9 @@
    "keywords": [
      "How to create WhatsApp bot using node.js",
      "Whatsapp bot using node.js",
-     "By Danzz Coding"
+     "By Azz Coding"
   ],
-  "author": "DanzzCoding",
+  "author": "Nocs Coding",
   "license": "MIT",
   "dependencies": {
   "@adiwajshing/baileys": "^4.2.0",
