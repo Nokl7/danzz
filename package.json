@@ -1,5 +1,5 @@
 {
-  "name": "danzz-mdv1",
+  "name": "Lumine",
   "version": "1.0.0",
   "description": "My Project",
   "main": "index.js",
@@ -12,7 +12,7 @@
      "Whatsapp bot using node.js",
      "By Danzz Coding"
   ],
-  "author": "DanzzCoding",
+  "author": "AzzCoding",
   "license": "MIT",
   "dependencies": {
   "@adiwajshing/baileys": "^4.2.0",
